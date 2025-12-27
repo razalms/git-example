@@ -19,7 +19,7 @@ function App() {
       <h1>Vite + React</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          This is changed by raza. and want to see the changes in the github.
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
