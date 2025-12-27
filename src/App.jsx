@@ -22,7 +22,7 @@ function App() {
           This is changed by raza. and want to see the changes in the github.
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+        this is changed by raza. and want to see the changes in the github in main.
         </p>
       </div>
       <p className="read-the-docs">
